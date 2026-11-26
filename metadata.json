@@ -1,0 +1,8 @@
+{
+  "name": "FinScope — Financial Intelligence Dashboard",
+  "description": "Financial intelligence dashboard combining multi-asset portfolio analytics, market exploration, watchlists, interactive charts, and ledger intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
